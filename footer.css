@@ -1,0 +1,25 @@
+.fot-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 100%;
+}
+.fot-container>div
+{
+    width: 33%;
+    color: rgb(156, 154, 154);
+}
+
+.footer
+{
+    background-image: url('img/bg-fot.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100% 100%;
+
+}
+.fot-container>div>h2
+{
+    color: rgb(230, 231, 231);
+}
